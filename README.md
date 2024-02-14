@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitekH
-- 👀 I’m interested in Python and HTML
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, HTML, JavaScript and Godot
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on our robot 🤖
 - 📫 How to reach me? I am unreachable. 😉
 
