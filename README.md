@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VitekH
 - 👀 I’m interested in Python, HTML, JavaScript, ReactJS and Godot
 - 🌱 I’m currently working on ReactJS with NodeJs + ExpressJS web
-- 💞️ I have expirience with work on our 🤖
+- 💞️ I have experience with work on our 🤖
 - 📫 How to reach me? I am unreachable. 😉
 
 <!---
